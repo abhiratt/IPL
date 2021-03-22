@@ -1,0 +1,507 @@
+[
+	{
+		"name": "Indian Cricketers",
+		"identifier": "a1",
+		"length": 28
+	},
+	{
+		"name": "Cricketer Emoticons",
+		"identifier": "a2",
+		"length": 20
+	},
+	{
+		"name": "Mahendra Singh Dhoni - MSD",
+		"identifier": "a3",
+		"length": 10
+	},
+	{
+		"name": "Virat Kohli",
+		"identifier": "a4",
+		"length": 11
+	},
+	{
+		"name": "Rohit Sharma",
+		"identifier": "a5",
+		"length": 21
+	},
+	{
+		"name": "Sachin Tendulkar",
+		"identifier": "a6",
+		"length": 11
+	},
+	{
+		"name": "Virender Sehwag",
+		"identifier": "a7",
+		"length": 12
+	},
+	{
+		"name": "Sourav Ganguly",
+		"identifier": "a8",
+		"length": 16
+	},
+	{
+		"name": "Shikhar Dhawan",
+		"identifier": "a9",
+		"length": 8
+	},
+	{
+		"name": "Suresh Raina",
+		"identifier": "a10",
+		"length": 11
+	},
+	{
+		"name": "Rahul Dravid",
+		"identifier": "a11",
+		"length": 6
+	},
+	{
+		"name": "Cricketer Comic",
+		"identifier": "a12",
+		"length": 21
+	},
+	{
+		"name": "Yuvraj Singh",
+		"identifier": "a13",
+		"length": 9
+	},
+	{
+		"name": "Cricket",
+		"identifier": "a14",
+		"length": 18
+	},
+	{
+		"name": "Cricket action",
+		"identifier": "a15",
+		"length": 16
+	},
+	{
+		"name": "Chennai Super Kings - CSK",
+		"identifier": "a16",
+		"length": 17
+	},
+	{
+		"name": "Delhi Capitals - DC",
+		"identifier": "a17",
+		"length": 14
+	},
+	{
+		"name": "Punjab Kings - PK",
+		"identifier": "a18",
+		"length": 20
+	},
+	{
+		"name": "Kolkata Knight Riders - KKR",
+		"identifier": "a19",
+		"length": 15
+	},
+	{
+		"name": "Mumbai Indians - MI",
+		"identifier": "a20",
+		"length": 13
+	},
+	{
+		"name": "Royal Challengers Bangalore - RCB",
+		"identifier": "a21",
+		"length": 19
+	},
+	{
+		"name": "Sunrisers Hyderabad - SRH",
+		"identifier": "a22",
+		"length": 11
+	},
+	{
+		"name": "Rajasthan Royals - RR",
+		"identifier": "a23",
+		"length": 16
+	},
+	{
+		"name": "Indian Cricketers",
+		"identifier": "b1",
+		"length": 29
+	},
+	{
+		"name": "Cricketer Emoticons",
+		"identifier": "b2",
+		"length": 20
+	},
+	{
+		"name": "Mahendra Singh Dhoni - MSD",
+		"identifier": "b3",
+		"length": 11
+	},
+	{
+		"name": "Virat Kohli",
+		"identifier": "b4",
+		"length": 11
+	},
+	{
+		"name": "Cricket Boards",
+		"identifier": "b5",
+		"length": 12
+	},
+	{
+		"name": "Rohit Sharma",
+		"identifier": "b6",
+		"length": 21
+	},
+	{
+		"name": "Sachin Tendulkar",
+		"identifier": "b7",
+		"length": 11
+	},
+	{
+		"name": "Virender Sehwag",
+		"identifier": "b8",
+		"length": 14
+	},
+	{
+		"name": "Sourav Ganguly",
+		"identifier": "b9",
+		"length": 16
+	},
+	{
+		"name": "Shikhar Dhawan",
+		"identifier": "b10",
+		"length": 10
+	},
+	{
+		"name": "Suresh Raina",
+		"identifier": "b11",
+		"length": 12
+	},
+	{
+		"name": "Rahul Dravid",
+		"identifier": "b12",
+		"length": 6
+	},
+	{
+		"name": "Cricketer Comic",
+		"identifier": "b13",
+		"length": 21
+	},
+	{
+		"name": "Yuvraj Singh",
+		"identifier": "b14",
+		"length": 9
+	},
+	{
+		"name": "Cricket",
+		"identifier": "b15",
+		"length": 18
+	},
+	{
+		"name": "Cricket action",
+		"identifier": "b16",
+		"length": 16
+	},
+	{
+		"name": "India vs Bangladesh",
+		"identifier": "b17",
+		"length": 8
+	},
+	{
+		"name": "Australian Cricket Team",
+		"identifier": "b18",
+		"length": 15
+	},
+	{
+		"name": "Bangladesh Cricket Team",
+		"identifier": "b19",
+		"length": 13
+	},
+	{
+		"name": "Cricket",
+		"identifier": "b20",
+		"length": 20
+	},
+	{
+		"name": "Cricket",
+		"identifier": "b21",
+		"length": 19
+	},
+	{
+		"name": "International Cricket Teams",
+		"identifier": "b22",
+		"length": 20
+	},
+	{
+		"name": "Cricket Fantasy",
+		"identifier": "b23",
+		"length": 23
+	},
+	{
+		"name": "Cricket Boards",
+		"identifier": "c1",
+		"length": 12
+	},
+	{
+		"name": "Indian Cricket Team",
+		"identifier": "c2",
+		"length": 29
+	},
+	{
+		"name": "Indian Cricket Team",
+		"identifier": "c3",
+		"length": 30
+	},
+	{
+		"name": "South African Cricket Team",
+		"identifier": "c4",
+		"length": 24
+	},
+	{
+		"name": "New Zealand Cricket Team",
+		"identifier": "c5",
+		"length": 25
+	},
+	{
+		"name": "Sri Lankan Cricket Team",
+		"identifier": "c6",
+		"length": 25
+	},
+	{
+		"name": "Pakistan Cricket Team",
+		"identifier": "c7",
+		"length": 25
+	},
+	{
+		"name": "Bangladesh Cricket Team",
+		"identifier": "c8",
+		"length": 24
+	},
+	{
+		"name": "England Cricket Team",
+		"identifier": "c9",
+		"length": 24
+	},
+	{
+		"name": "West Indian Cricket Team",
+		"identifier": "c10",
+		"length": 24
+	},
+	{
+		"name": "Afghanistan Cricket Team",
+		"identifier": "c11",
+		"length": 24
+	},
+	{
+		"name": "Australian Cricket Team",
+		"identifier": "c12",
+		"length": 22
+	},
+	{
+		"name": "Mahendra Singh Dhoni - MSD",
+		"identifier": "c13",
+		"length": 11
+	},
+	{
+		"name": "Virat Kohli",
+		"identifier": "c14",
+		"length": 11
+	},
+	{
+		"name": "Sachin Tendulkar",
+		"identifier": "c15",
+		"length": 11
+	},
+	{
+		"name": "Virender Sehwag",
+		"identifier": "c16",
+		"length": 14
+	},
+	{
+		"name": "CSK Squad",
+		"identifier": "d1",
+		"length": 24
+	},
+	{
+		"name": "CSK Players",
+		"identifier": "d2",
+		"length": 25
+	},
+	{
+		"name": "CSK Players",
+		"identifier": "d3",
+		"length": 25
+	},
+	{
+		"name": "CSK Players",
+		"identifier": "d4",
+		"length": 17
+	},
+	{
+		"name": "CSK",
+		"identifier": "d5",
+		"length": 30
+	},
+	{
+		"name": "CSK",
+		"identifier": "d6",
+		"length": 30
+	},
+	{
+		"name": "Cricket",
+		"identifier": "d7",
+		"length": 16
+	},
+	{
+		"name": "IPL 2020 Teams",
+		"identifier": "e1",
+		"length": 9
+	},
+	{
+		"name": "Chennai Super Kings CSK Squad 2020",
+		"identifier": "e2",
+		"length": 24
+	},
+	{
+		"name": "Delhi Capitals DC Squad 2020",
+		"identifier": "e3",
+		"length": 25
+	},
+	{
+		"name": "Kings XI Punjab KXIP Squad 2020",
+		"identifier": "e4",
+		"length": 23
+	},
+	{
+		"name": "Kolkata Knight Riders KKR Squad 2020",
+		"identifier": "e5",
+		"length": 30
+	},
+	{
+		"name": "Mumbai Indian MI Squad 2020",
+		"identifier": "e6",
+		"length": 26
+	},
+	{
+		"name": "Rajasthan Royals RR Squad 2020",
+		"identifier": "e7",
+		"length": 26
+	},
+	{
+		"name": "Royal Challengers Bangalore RCB Squad 2020",
+		"identifier": "e8",
+		"length": 25
+	},
+	{
+		"name": "Sunrisers Hyderabade SRH Squad 2020",
+		"identifier": "e9",
+		"length": 30
+	},
+	{
+		"name": "Cricket",
+		"identifier": "e10",
+		"length": 8
+	},
+	{
+		"name": "IPL 2020",
+		"identifier": "f1",
+		"length": 10
+	},
+	{
+		"name": "Royal Challengers Bangalore RCB Squad 2020",
+		"identifier": "f2",
+		"length": 21
+	},
+	{
+		"name": "Kolkata Knight Riders KKR Squad 2020",
+		"identifier": "f3",
+		"length": 22
+	},
+	{
+		"name": "Indian Cricket Team",
+		"identifier": "f4",
+		"length": 30
+	},
+	{
+		"name": "Mumbai Indians MI",
+		"identifier": "f5",
+		"length": 30
+	},
+	{
+		"name": "Cricket",
+		"identifier": "f6",
+		"length": 30
+	},
+	{
+		"name": "All IPL match-ups",
+		"identifier": "f7",
+		"length": 28
+	},
+	{
+		"name": "IPL Teams",
+		"identifier": "f8",
+		"length": 15
+	},
+	{
+		"name": "IPL Stickers",
+		"identifier": "f9",
+		"length": 30
+	},
+	{
+		"name": "MI and CSK",
+		"identifier": "f10",
+		"length": 19
+	},
+	{
+		"name": "IPL Teams",
+		"identifier": "f11",
+		"length": 15
+	},
+	{
+		"name": "IPL Teams",
+		"identifier": "f12",
+		"length": 19
+	},
+	{
+		"name": "IPL Memes",
+		"identifier": "f13",
+		"length": 15
+	},
+	{
+		"name": "IPL 2020 Teams",
+		"identifier": "g1",
+		"length": 9
+	},
+	{
+		"name": "CSK Sticker Pack",
+		"identifier": "g2",
+		"length": 23
+	},
+	{
+		"name": "DC Sticker Pack",
+		"identifier": "g3",
+		"length": 24
+	},
+	{
+		"name": "KXIP Sticker Pack",
+		"identifier": "g4",
+		"length": 22
+	},
+	{
+		"name": "KKR Sticker Pack",
+		"identifier": "g5",
+		"length": 20
+	},
+	{
+		"name": "MI Sticker Pack",
+		"identifier": "g6",
+		"length": 26
+	},
+	{
+		"name": "RR Sticker Pack",
+		"identifier": "g7",
+		"length": 25
+	},
+	{
+		"name": "RCB Sticker Pack",
+		"identifier": "g8",
+		"length": 24
+	},
+	{
+		"name": "SRH Sticker Pack",
+		"identifier": "g9",
+		"length": 23
+	}
+]
